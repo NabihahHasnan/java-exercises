@@ -2,7 +2,7 @@
 ## On-going Java Exercises
 
 ## Progress
-- [x] Exercise01 - Student
+- [x] Exercise01 - Array Large Number
 - [x] Exercise02 - Employee
 - [x] Exercise03 - PatternPrinter
 - [x] Exercise04 - Cylinder
