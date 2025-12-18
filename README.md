@@ -1,2 +1,14 @@
-# java-exercises
-This repository documents my Java learning journey, including core concepts, small exercises, and progress as I build a strong programming foundation..
+
+## On-going Java Exercises
+
+## Progress
+- [x] Exercise01 - Student
+- [x] Exercise02 - Employee
+- [x] Exercise03 - PatternPrinter
+- [x] Exercise04 - Cylinder
+
+## Notes
+Each exercise is stored in its own folder with:
+- Java source file
+- Short README explaining the task + what I learned
+
