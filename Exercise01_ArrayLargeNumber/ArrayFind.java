@@ -3,6 +3,7 @@ Exercise 01:
 Find the second largest number in an integer array. 
 You can assume a minimum array length of two
 */
+package Exercise01_ArrayLargeNumber;
 
 public class ArrayFind {
     public static void main(String[] args) {
